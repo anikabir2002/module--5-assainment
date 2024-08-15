@@ -1,0 +1,91 @@
+.navbar{
+    background-color: rgb(192, 139, 241);
+    color: black;
+    text-transform: capitalize;
+    font-weight: 600;
+}
+.navbar .nav-item a:hover{
+    color: rgb(236, 236, 236);
+    text-decoration: overline 2px solid black;
+    cursor: row-resize;
+}
+.home{
+    background-image: url(./image/free-nature-images.jpg);
+    height: 500px;
+    size: cover;
+}
+.home-left{
+    margin-top: 150px;
+    padding: 10PX;
+}
+.home-left h2{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "New Amsterdam", sans-serif;
+  font-style: normal;
+  color: rgb(205, 241, 72);
+}
+.home-left p{
+    font-size: 15px;
+    font-weight: 800;
+}
+/* this is table section */
+.head-table{
+   text-align: center;
+   text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    color: rgb(205, 241, 72);
+    font-family: "New Amsterdam", sans-serif;
+}
+.table{
+    background-color: rgb(215, 164, 228);
+    margin-bottom: 100px;
+    
+}
+/* this is card design */
+.card-top{
+    text-align: center;
+    text-transform: uppercase;
+     font-weight: bold;
+    
+     padding-bottom: 50px;
+     color: rgb(205, 241, 72);
+     font-family: "New Amsterdam", sans-serif;
+}
+.card-sec{
+    margin-bottom: 80px;
+}
+/* this is form section */
+.form-1{
+    padding-top: 30px;
+    text-align: center;
+   text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 50px;
+    /* padding-bottom: 50px; */
+    color: rgb(205, 241, 72);
+    font-family: "New Amsterdam", sans-serif;
+}
+.form-sec{
+ background-color: rgb(215, 164, 228);
+ margin-top: 50px;
+ padding-bottom: 80px;
+}
+.form-2{
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+}
+/* this is list  */
+.list-text{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.list{
+    padding-top: 50px;
+}
+
+/* this is google font */
